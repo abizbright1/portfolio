@@ -1,0 +1,9 @@
+# Keep company data and working files out of this public repo
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*_internal*
+.DS_Store
+~$*
+__pycache__/
